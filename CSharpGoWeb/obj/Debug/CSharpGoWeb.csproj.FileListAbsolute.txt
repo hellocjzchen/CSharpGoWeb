@@ -1,0 +1,5 @@
+D:\CSharpGoWeb\CSharpGoWeb\bin\CSharpGoWeb.dll
+D:\CSharpGoWeb\CSharpGoWeb\bin\CSharpGoWeb.pdb
+D:\CSharpGoWeb\CSharpGoWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharpGoWeb\CSharpGoWeb\obj\Debug\CSharpGoWeb.dll
+D:\CSharpGoWeb\CSharpGoWeb\obj\Debug\CSharpGoWeb.pdb
