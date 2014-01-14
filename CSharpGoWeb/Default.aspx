@@ -65,6 +65,10 @@ tabCloseEven();
                             {
                                 name: "字符串合并与分解",
                                 file: "StringJoinAndSplit.aspx"
+                            },
+                            {
+                                name: "博客园",
+                                file: "http://www.cnblogs.com"
                             }
                         ]}               
         ];
