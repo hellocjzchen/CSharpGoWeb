@@ -67,8 +67,8 @@ tabCloseEven();
                                 file: "StringJoinAndSplit.aspx"
                             },
                             {
-                                name: "博客园",
-                                file: "http://www.cnblogs.com"
+                                name: "身份证号解析",
+                                file: "frm_IDParse.aspx"
                             }
                         ]}               
         ];
